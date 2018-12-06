@@ -27,6 +27,8 @@
 
 ```markdown
     git clone https://github.com/larissalages/TensorFLow_Workshop.git
+    
+    [https://drive.google.com/open?id=1CO8PHIC46ecZ7iHYHAD2FwqYeDj_PeGJ]
 ```
 
 ## Descomprimindo os datasets
@@ -183,6 +185,8 @@ Primeiro clone o repositorio:
 
 ```markdown
 git clone https://github.com/larissalages/style-transfer-android.git
+    
+[https://drive.google.com/open?id=1ToJtwFrv-MyQOBW-pNM8WXGzykglDt2E]
 ```
 Carregue o código no Android Studio: <br />
     1. Abra o Android Studio e selecione Import Project, navegue pelos diretórios até encontrar o repositório clonado.<br />
